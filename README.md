@@ -4,9 +4,9 @@ A Node.js Express API containerized with Docker and deployed on an AWS EC2 Ubunt
 
 ## Live Demo
 
-- Domain: https://tariqsabzicart.duckdns.org
-- Prices API: https://tariqsabzicart.duckdns.org/api/prices
-- Health Check: https://tariqsabzicart.duckdns.org/api/health
+- **Domain:** https://tariqsabzicart.duckdns.org
+- **Prices API:** https://tariqsabzicart.duckdns.org/api/prices
+- **Health Check:** https://tariqsabzicart.duckdns.org/api/health
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ A Node.js Express API containerized with Docker and deployed on an AWS EC2 Ubunt
 
 ## Project Structure
 
-text
+```text
 sabzicart-api/
 ├── .dockerignore
 ├── .gitignore
